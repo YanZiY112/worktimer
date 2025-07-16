@@ -1,0 +1,188 @@
+{
+  "daily_records": {
+    "2025-06-19": {
+      "work_time": 56,
+      "sessions": 5,
+      "focus_periods": [],
+      "date": "2025-06-19"
+    },
+    "2025-06-23": {
+      "work_time": 74,
+      "sessions": 18,
+      "focus_periods": [],
+      "date": "2025-06-23"
+    },
+    "2025-06-24": {
+      "work_time": 16,
+      "sessions": 7,
+      "focus_periods": [],
+      "date": "2025-06-24"
+    },
+    "2025-06-26": {
+      "work_time": 95,
+      "sessions": 7,
+      "focus_periods": [],
+      "date": "2025-06-26"
+    },
+    "2025-06-27": {
+      "work_time": 135,
+      "sessions": 26,
+      "focus_periods": [],
+      "date": "2025-06-27"
+    },
+    "2025-07-16": {
+      "work_time": 6,
+      "sessions": 5,
+      "focus_periods": [],
+      "date": "2025-07-16"
+    }
+  },
+  "total_stats": {
+    "total_work_time": 382,
+    "total_sessions": 68,
+    "created_date": "2025-06-19T00:47:30.799216",
+    "last_updated": "2025-07-16T21:26:49.845496"
+  },
+  "version": "2.0",
+  "custom_modes": {
+    "custom_aa04c555": {
+      "name": "牛马模式",
+      "total": 60,
+      "interval": 15,
+      "random": 2,
+      "rest": 5,
+      "second": 10,
+      "description": "60分钟，间隔15分钟",
+      "created_time": "2025-06-23T23:23:01.664869",
+      "modified_time": "2025-06-23T23:23:01.664869",
+      "use_count": 3,
+      "last_used": "2025-06-27T11:37:33.899440",
+      "tags": [],
+      "notes": "在此处输入备注信息..."
+    },
+    "custom_cfcc609b": {
+      "name": "仔细检查时刻",
+      "total": 45,
+      "interval": 15,
+      "random": 2,
+      "rest": 5,
+      "second": 10,
+      "description": "45分钟，间隔15分钟",
+      "created_time": "2025-06-26T19:01:21.058641",
+      "modified_time": "2025-06-26T19:01:21.058641",
+      "use_count": 1,
+      "last_used": "2025-06-26T19:01:32.217763",
+      "tags": [],
+      "notes": "在此处输入备注信息..."
+    },
+    "custom_60efae4d": {
+      "name": "test",
+      "total": 2,
+      "interval": 1,
+      "random": 1,
+      "rest": 5,
+      "second": 10,
+      "description": "2分钟，间隔1分钟",
+      "created_time": "2025-06-26T19:47:47.611870",
+      "modified_time": "2025-06-26T19:47:47.611870",
+      "use_count": 2,
+      "last_used": "2025-07-16T18:54:54.168931",
+      "tags": [],
+      "notes": "在此处输入备注信息..."
+    }
+  },
+  "dim_messages": [
+    "放松一下眼睛，看看远处",
+    "站起来活动一下身体",
+    "深呼吸，调整一下坐姿",
+    "喝口水，补充水分",
+    "记得保持专注，你做得很棒",
+    "牛马下班！！",
+    "撸起袖子加油干！",
+    "坚持就是胜利",
+    "今天的努力，明天的实力",
+    "每一个小进步都值得欣赏",
+    "专注当下，成就未来",
+    "不要让昨天占用太多的今天",
+    "这是一个新的标语分类",
+    "这是一个新的标语分类",
+    "认清现实，准备战斗"
+  ],
+  "dim_message_settings": {
+    "current_message": "认清现实，准备战斗",
+    "use_random": true
+  },
+  "custom_mode_history": {
+    "last_used": [
+      "custom_60efae4d",
+      "custom_aa04c555",
+      "custom_cfcc609b"
+    ],
+    "most_used": [
+      "custom_aa04c555",
+      "custom_60efae4d",
+      "custom_cfcc609b"
+    ]
+  },
+  "slogan_categories": {
+    "default": {
+      "name": "默认分类",
+      "description": "系统默认标语",
+      "enabled": true,
+      "created_time": "2025-06-23T14:38:05.737805",
+      "slogans": [
+        "放松一下眼睛，看看远处",
+        "站起来活动一下身体",
+        "深呼吸，调整一下坐姿",
+        "喝口水，补充水分",
+        "记得保持专注，你做得很棒",
+        "牛马下班！！",
+        "撸起袖子加油干！"
+      ]
+    },
+    "motivational": {
+      "name": "激励标语",
+      "description": "激励自己的标语",
+      "enabled": true,
+      "created_time": "2025-06-23T14:38:05.737805",
+      "slogans": [
+        "坚持就是胜利",
+        "今天的努力，明天的实力",
+        "每一个小进步都值得欣赏",
+        "专注当下，成就未来",
+        "不要让昨天占用太多的今天"
+      ]
+    },
+    "category_美好一天_1750732284": {
+      "name": "美好一天",
+      "description": "美好一天分类",
+      "enabled": true,
+      "created_time": "2025-06-24T10:31:24.542107",
+      "slogans": [
+        "这是一个新的标语分类"
+      ]
+    },
+    "category_撸起袖子加油干_1750935572": {
+      "name": "撸起袖子加油干",
+      "description": "撸起袖子加油干分类",
+      "enabled": true,
+      "created_time": "2025-06-26T18:59:32.999495",
+      "slogans": [
+        "这是一个新的标语分类",
+        "认清现实，准备战斗"
+      ]
+    }
+  },
+  "slogan_settings": {
+    "current_slogan": "认清现实，准备战斗",
+    "use_random": true,
+    "enabled_categories": [
+      "default",
+      "motivational",
+      "category_美好一天_1750732284",
+      "category_撸起袖子加油干_1750935572"
+    ],
+    "display_style": "standard",
+    "favorite_slogans": []
+  }
+}
